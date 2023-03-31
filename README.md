@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kaushikadityajavascript
 - 👀 I’m interested in ...Software Development
-- 🌱 I’m currently learning ... React JS
 - � 
 - 📫 How to reach me ... kaushikaditya.077@gmail.com
 
